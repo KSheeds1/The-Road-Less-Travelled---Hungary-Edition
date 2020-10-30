@@ -1,45 +1,87 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# The Road Less Travelled - Hungary Edition
+*The Road Less Travelled* is an interactive front-end site that aims to help users find their perfect Hungarian holiday destination. *We've done the leg work so you don't have to!* Browse the site to discover our top four destinations around Hungary to find your dream holiday destination. Our site provides you with up-to-date information on accommodation, amenities, and the best bars and restaurants in the area! We've provided all the information that you'll need in one place to research holiday destinations around Hungary to help you choose your perfect destination.  
 
-Welcome KSheeds1,
+# Demo
+Access the live site [here]()
+  
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+# UX
+## User Stories
+>*As the head of my family, I want to research possible holiday destinations that suit all my needs and budget so that I can holiday in Europe with my family, but without the exorbitant price tag.*
 
-## Gitpod Reminders
+>*As an experienced traveller, I like to research my trips in advance so that I can find a travel destination that isn’t overrun with tourists.*
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+>*As a couple, we love going on weekend city breaks! We want to explore different city break locations so that we can find a destination that is off the beaten track but still offers all the amenities.*
 
-`python3 -m http.server`
+>*I have been exploring the site and have a query, the answer doesn’t seem to be available on the website, I would like to find out more about it, is this possible?*
 
-A blue button should appear to click: *Make Public*,
+## Strategies: 
 
-Another blue button should appear to click: *Open Browser*.
+## Scope:
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Skeleton: 
+### Landing page wireframes:
+[Landing Page desktop]()
 
-A blue button should appear to click: *Make Public*,
+[Landing Page mobile]()
 
-Another blue button should appear to click: *Open Browser*.
+### Budapest page wireframes:
+[Budapest Page desktop]()
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+[Budapest Page mobile]()
 
-## Updates Since The Instructional Video
+### Pecs page wireframes:
+[Pecs Page desktop]()
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+[Pecs Page mobile]()
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+### Siofok page wireframes:
+[Siofok Page desktop]()
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+[Siofok Page mobile]()
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+### Keszthely page wireframes:
+[Keszthely Page desktop]()
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+[Keszthely Page mobile]()
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+### Contact page wireframes:
+[Contact Page desktop]()
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+[Contact Page mobile]()
 
---------
+## Surface:
 
-Happy coding!
+
+# Features
+## Existing Features:
+
+**Google Maps API**
+
+**Bootstrap Carousel API**
+
+**Contact form via EmailJS API** 
+
+
+## Features left to implement
+**Find your dream location quiz:** 
+
+Users can answer a series of questions that provide multiple choice answers. Depending on the answers selected by the user, the quiz will generate their ideal holiday destination and redirect them to the locations page.  
+
+**Sky Scanner API:**
+
+The integration of the Sky Scanner API into the site is contingent on the reopening of international borders and the decrease of travel bans globally. Given the prevalence of COVID-19 globally and it's effects on international travel, the site owner has decided to delay the integration of the Sky Scanner API, until such a time, that international travel is less restricted and that the inclusion of the API will provide additional value for the user. Until then, it's integration has been tabled for a future release.
+
+# Technologies Used 
+
+# Testing
+
+# Deployment
+
+# Credits
+## Content
+
+## Media 
+
+## Acknowledgements 
